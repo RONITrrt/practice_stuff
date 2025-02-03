@@ -1,1 +1,2 @@
 I am a file used to fix the bugs
+fixed another bugs
