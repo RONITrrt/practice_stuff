@@ -1,3 +1,4 @@
 I am a file used to fix the bugs
 fixed another bugs
 another fix meassge for pink mode
+another fix for purple mode
